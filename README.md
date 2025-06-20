@@ -59,3 +59,6 @@ This project aims to build an intelligent, end-to-end pipeline that converts a P
 
 This pipeline ensures that the audiobook is not just a robotic readout of text but a context-aware, tone-sensitive, chapter-organized narrative tailored for listener engagement and clarity.
 
+![image](https://github.com/user-attachments/assets/ae26ec2a-5086-4559-a9f3-4bffe50df645)
+
+
